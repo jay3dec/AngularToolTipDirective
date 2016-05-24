@@ -1,0 +1,28 @@
+ #demoContainer span {
+   background-color: #ddd;
+   padding: 12px;
+ }
+ 
+ #demoContainer {
+   margin: 100px;
+   cursor: pointer;
+   position: relative;
+ }
+ 
+ #divPopup {
+   position: absolute;
+   top: -26px;
+   left: 83px;
+ }
+ 
+ #divPopup span {
+   background-color: #B46D6D;
+   padding: 12px;
+   color: whitesmoke;
+ }
+ .floatLeft{
+   float:left;
+ }
+ .margin3{
+   margin-top: 3px;
+ }
